@@ -1,0 +1,14 @@
+{
+    "target_date": "2026-07-11",
+    "predicted_best_coin": "BTC",
+    "actual_best_coin": "ETH",
+    "was_correct": false,
+    "weights_used": {
+        "western_macro": 0.1,
+        "eastern_macro": 0.1,
+        "global_indicators": 0.1,
+        "crypto_historical_trajectory": 0.35,
+        "crypto_sentiment": 0.25
+    },
+    "rationale": "BTC is the preferred T+1 buy because the highest applied weight is crypto_historical_trajectory at 0.35, and BTC shows the most defensive multi-timeframe profile among the six coins. BTC is only down -0.51% over 1d and -0.30% over 7d, making it the most stable short-term performer; its 1m move is only -0.68%, and its 6m decline of -5.16% is the best in the group. While its 3m return is weak at -20.90%, the broader market is also deeply negative, so relative resilience matters. ETH has a slightly better 1d move at -0.42% and a positive 1m return of 2.81%, but its 3m and 6m losses of -23.15% and -9.21% are weaker than BTC. SOL has stronger 1m and 3m figures at 4.99% and -17.52%, but its short-term momentum is poor, with -1.59% over 1d and -6.21% over 7d, making it riskier for T+1. AVAX has a positive 1m return of 5.12%, but its -2.74% 1d, -5.34% 7d, -34.16% 3m, and -26.43% 6m trajectory shows much higher downside pressure. DOT is the weakest structurally, with negative returns across all windows: -2.54% 1d, -3.43% 7d, -11.77% 1m, -36.55% 3m, and -40.95% 6m. LINK is relatively stable short term at -0.49% 1d and -1.15% 7d, but it lacks BTC's 6m resilience and has a weaker 3m decline of -23.60%. Macro conditions are mixed: US rates/inflation, global energy, and crypto industry news score mildly bullish at 6, but US employment is sharply bearish at 2, Europe is bearish at 3, Japan is mildly bearish at 4, and the crypto historical trajectory score is only 2. Because the macro backdrop does not strongly support high-beta risk taking, and because historical trajectory carries the largest weight, BTC offers the best balance of liquidity, relative strength, and downside control for the next-day selection."
+}

@@ -1,0 +1,14 @@
+{
+    "target_date": "2026-07-25",
+    "predicted_best_coin": "AVAX",
+    "actual_best_coin": "LINK",
+    "was_correct": false,
+    "weights_used": {
+        "western_macro": 0.05,
+        "eastern_macro": 0.05,
+        "global_indicators": 0.1,
+        "crypto_historical_trajectory": 0.3,
+        "crypto_sentiment": 0.5
+    },
+    "rationale": "AVAX is the preferred T+1 buy because its short-term trajectory is the clearest positive outlier among the six coins, which matters most for a one-day prediction when the applied model gives 50% weight to crypto sentiment and 30% to crypto historical trajectory. AVAX is up 7.44% over 1d and 2.87% over 7d, making it the only coin with both strong daily momentum and a positive weekly return. Its longer-term trend remains weak, with 1m at -2.86%, 3m at -27.91%, and 6m at -26.50%, so this is not a structurally strong asset, but for T+1 the sharp 1d breakout and positive 7d relative strength suggest the highest probability of near-term continuation under bullish crypto sentiment. BTC is more defensive, with 1d +0.33%, 7d -1.41%, 1m +1.94%, 3m -16.12%, and 6m -6.40%, but its short-term momentum is muted. ETH has a strong 1m profile at +5.29% and modest 1d strength at +0.70%, with 7d -1.60%, 3m -11.47%, and 6m -9.80%, making it a credible alternative, but it lacks AVAX's positive weekly confirmation. SOL shows 1d +0.74% but remains weak across 7d -4.32%, 1m -8.84%, 3m -13.11%, and 6m -14.91%, indicating no clear reversal yet. DOT is broadly unattractive despite 1d +0.69%, with 7d -1.48%, 1m -7.89%, 3m -36.99%, and 6m -44.41%, showing persistent underperformance. LINK is relatively resilient over longer horizons, with 1d +0.48%, 7d -2.45%, 1m +4.65%, 3m -12.40%, and 6m -4.93%, but its weekly weakness makes it less compelling for T+1 than AVAX. Macro conditions are mixed-to-mildly bearish: US rates/inflation score 4, Europe 4, Japan 3, and US employment 3 weigh against risk assets, while global energy at 6 is mildly supportive. However, these macro categories have low combined influence under the applied weights compared with crypto sentiment and trajectory. Crypto industry news has a bullish score of 7 and carries the largest 0.5 weight, favoring higher-beta assets that are already showing momentum. Therefore, despite AVAX's poor 3m and 6m trend, its dominant 1d and 7d relative strength makes it the best T+1 candidate."
+}

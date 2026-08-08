@@ -1,0 +1,8 @@
+## 1. BACKTEST SUMMARY (PASS 1)
+Two weeks ago, the model predicted that AVAX would win, but the actual winner was LINK, meaning the prediction was incorrect. The lesson learned was not to focus too much on short-term spikes if they go against longer-term trends. Instead, it's better to choose assets that show strong or improving performance over a longer period, especially when the overall market situation is mixed and there's no significant news.
+
+## 2. WEIGHT ADJUSTMENTS
+The model has adjusted its focus on different factors. It now places more importance on long-term trends (1 month to 6 months) and macroeconomic conditions, while giving less weight to short-term movements (1 day to 7 days) and news sentiment. This means the model is prioritizing stability and longer-term performance over quick gains or news events.
+
+## 3. WHAT YOU SHOULD DO TODAY AND WHY
+Today, you should consider buying ETH (Ethereum). The model suggests this because ETH has shown good short-term performance, but more importantly, it has the strongest long-term growth among major cryptocurrencies. Even though it had a negative trend over the last 6 months, its recent performance over 1 month and 3 months is impressive. Additionally, the overall market conditions are favorable, making ETH a balanced choice for potential gains.

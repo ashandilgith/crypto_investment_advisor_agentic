@@ -1,0 +1,9 @@
+langgraph>=0.0.26
+langchain-openai>=0.1.0
+langchain-community>=0.0.29
+ddgs>=5.0.0
+yfinance>=0.2.30
+pandas>=2.0.0
+python-dotenv>=1.0.0
+streamlit>=1.31.0
+reportlab>=4.1.0

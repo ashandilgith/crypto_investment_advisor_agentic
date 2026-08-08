@@ -1,0 +1,14 @@
+## 1. BACKTEST SUMMARY (HISTORICAL PASSES)
+In the two historical tests, the model made predictions about cryptocurrency prices. In the first test on July 11, 2026, it predicted Bitcoin (BTC) but the actual result was Ethereum (ETH), which was incorrect. In the second test on July 25, 2026, it predicted Ethereum (ETH) but the actual result was Chainlink (LINK), which was also incorrect. From these tests, the trainer concluded that the model should place more importance on historical price trends of cryptocurrencies (crypto_historical_trajectory) to improve predictions, while reducing the focus on macroeconomic factors (western_macro, eastern_macro, and global_indicators) that did not provide useful insights.
+
+## 2. WEIGHT ADJUSTMENTS
+Based on the lessons learned from the historical tests, the model adjusted its focus for live decision-making. The new weights prioritize the following data points: 
+- Crypto historical trajectory: 0.40 (most important)
+- Crypto sentiment: 0.15
+- Western macro: 0.15
+- Eastern macro: 0.15
+- Global indicators: 0.15
+This adjustment reflects a shift towards relying more on historical trends in cryptocurrency prices and sentiment, while deemphasizing broader economic indicators.
+
+## 3. WHAT TO BUY TODAY AND WHY
+Today, the recommendation is to buy Ethereum (ETH). The analysis indicates that the macroeconomic environment is neutral, with no strong signals from various economic factors. Given that the historical data suggests ETH has performed well in similar conditions and the model's adjustments favor historical price trends, ETH is seen as the best choice. It has strong liquidity and institutional relevance, making it a favorable option in the current market context.
